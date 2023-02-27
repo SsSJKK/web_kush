@@ -5,3 +5,5 @@
 !alpr.conf
 lisner.log
 websocket.log
+!cam_streamer
+!cam_streamer.conf
