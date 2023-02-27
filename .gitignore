@@ -3,3 +3,5 @@
 !websocket*
 !.gitignore
 !alpr.conf
+lisner.log
+websocket.log
